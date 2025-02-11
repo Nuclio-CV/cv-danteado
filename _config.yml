@@ -1,0 +1,6 @@
+title: Dante Scherma
+logo: "Dante Scherma.png"
+description: Data Analyst
+theme: jekyll-theme-minimal 
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
